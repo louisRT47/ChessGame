@@ -24,7 +24,7 @@ For Windows users, please note that audio file compatibility might be an issue. 
 
 Ready to play chess?
 
-![Image Description](backgroundImage-chess.jpg)
+![Image Description](FirstWindow.png)
 
 ## Usage
 The game is easy to navigate. Simply click 'Play,' and a new window will open, allowing you to choose your preferred game options. Have fun!
