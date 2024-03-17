@@ -1,3 +1,0 @@
-sudo apt-get install libva-dev
-
-sudo apt-get install qtmultimedia5-dev
