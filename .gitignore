@@ -72,3 +72,9 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
+# Ignore specific files
+Pirates Of The Caribbean Theme Song.mp3
+theme music.mp3
+
+# Ignore a folder and its contensts
+Older things/
